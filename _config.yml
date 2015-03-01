@@ -1,11 +1,11 @@
 # Site settings
-title: Piráti v Královéhradeckém kraji
+title: Piráti v Chrudimi
 description: > # this means to ignore newlines until "baseurl:"
-  Krajské sdružení Pirátů v Královéhradeckém kraji.
-keywords: Piráti, komunální politika, Hradec Králové, Trutnov, Česká pirátská strana
+  Piráti v Chrudimi
+keywords: Piráti, komunální politika, Chrudim, Česká pirátská strana
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://khk.pirati.cz" # the base hostname & protocol for your site
-h1: "Piráti v Královéhradeckém kraji"
+url: "http://chrudim.pirati.cz" # the base hostname & protocol for your site
+h1: "Piráti v Chrudimi"
 #ga: UA-54908007-1
 
 permalink:     :title.html

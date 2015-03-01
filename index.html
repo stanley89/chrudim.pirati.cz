@@ -6,9 +6,11 @@ title: Aktuálně
 
 ---
 
+{% assign posts = (site.posts | where: "category", "aktuality" | sort: 'date') %}
+
 {% assign modulo = 0 %}
 
-{% for post in site.posts %}
+{% for post in posts reversed %}
 
 {% if modulo == 0 or forloop.first %}
   <div class="row blog">
