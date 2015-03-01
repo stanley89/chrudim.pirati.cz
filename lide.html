@@ -1,0 +1,40 @@
+---
+layout: eu
+wide: true
+category: program
+title: Aktuálně
+
+---
+{% assign posts = (site.posts | where: "category", "lide" | sort: 'date') %}
+
+{% assign modulo = 0 %}
+
+{% for post in posts %}
+
+{% if modulo == 0 or forloop.first %}
+  <div class="row blog">
+{% endif %}
+
+<div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
+<img src="{{ post.image }}"/>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+{% if post.autor %} <span class="radius label">{{ post.autor}}</span> {% endif %}
+{% if post.date %}  <span class="radius secondary label">{{ post.date | date: "%d.%m.%Y" }}</span> {% endif %}
+{% if post.excerpt %}{{ post.excerpt | truncatewords: 30 }}
+{% else %}
+{{ post.content | strip_html | truncatewords: 30 }}
+{% endif %}
+<a href="{{ post.url }}">více</a>.
+</div>
+
+{% if modulo == 1 or forloop.last %}
+  </div>
+{% endif %}
+
+{% if modulo == 0 %}
+  {% assign modulo = 1 %}
+{% else %}
+  {% assign modulo = 0 %}
+{% endif %}
+
+{% endfor %}
