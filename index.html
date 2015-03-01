@@ -1,30 +1,29 @@
 ---
 layout: eu
 wide: true
-title: Blog
 category: program
----
+title: Aktuálně
 
-{% assign blogs = (site.posts | where: "category", "blog" | sort: 'date') %}
+---
 
 {% assign modulo = 0 %}
 
-{% for blog in blogs reversed %}
+{% for post in site.posts %}
 
 {% if modulo == 0 or forloop.first %}
   <div class="row blog">
 {% endif %}
 
 <div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
-<img src="{{ blog.image }}"/>
-<h2><a href="{{ blog.url }}">{{ blog.title }}</a></h2>
-{% if blog.autor %} <span class="radius label">{{ blog.autor}}</span> {% endif %}
-{% if blog.date %}  <span class="radius secondary label">{{ blog.date | date: "%d.%m.%Y" }}</span> {% endif %}
-{% if blog.excerpt %}{{ blog.excerpt | truncatewords: 30 }}
+<img src="{{ post.image }}"/>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+{% if post.autor %} <span class="radius label">{{ post.autor}}</span> {% endif %}
+{% if post.date %}  <span class="radius secondary label">{{ post.date | date: "%d.%m.%Y" }}</span> {% endif %}
+{% if post.excerpt %}{{ post.excerpt | truncatewords: 30 }}
 {% else %}
-{{ blog.content | strip_html | truncatewords: 30 }}
+{{ post.content | strip_html | truncatewords: 30 }}
 {% endif %}
-<a href="{{ blog.url }}">více</a>.
+<a href="{{ post.url }}">více</a>.
 </div>
 
 {% if modulo == 1 or forloop.last %}
