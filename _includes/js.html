@@ -1,0 +1,23 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/assets/js/foundation/foundation.js"></script>
+<script src="/assets/js/foundation/foundation.topbar.js"></script>
+{% if page.category contains 'zastupitel' %}<script src="/assets/js/foundation/foundation.orbit.js"></script>{% endif %}
+<script>
+  $(document).foundation();
+</script>
+{% if page.category contains 'zastupitel' %}
+<script>
+$('#candidatecarousel').on('after-slide-change.fndtn.orbit', function(event, orbit) {
+  var activeSlide = $(event.currentTarget).find('li').eq(orbit.slide_number);
+  var activeName = activeSlide.attr("data-orbit-slide");
+  $("li").removeClass("active-candidate");
+  $("#list-" + activeName).addClass("active-candidate"); 
+});
+
+
+
+</script>
+<script src="http://www.stipl.cz/pirati.js"></script>
+
+{% endif %}
+

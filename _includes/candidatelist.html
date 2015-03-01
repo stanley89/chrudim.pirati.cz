@@ -1,0 +1,17 @@
+{% assign candidates = (site.posts | where: "category", "zastupitel" | sort: 'number') %}
+
+<div class="slideshow-wrapper">
+<ul id="candidatecarousel" class="example-orbit" data-orbit data-options="pause_on_hover:true; timer:true; timer_speed:3000; bullets:false">  {% for candidate in candidates offset:1 %}{% if candidate.number >= page.number %}{% assign label = ((candidate.url | split: '.html').first | array_to_sentence_string | split: '/').last %}
+  <li{% if candidate.number == page.number %} class="active"{% endif %}  data-orbit-slide="{{ label }}"><a href="{{ candidate.url }}"><img src="/assets/images/candidates/images/{{ candidate.image }}" alt="{{candidate.fullname}}" /></a></li>{% endif %}{% endfor %}
+{% for candidate in candidates offset:1 %}{% if candidate.number < page.number %}{% assign label = ((candidate.url | split: '.html').first | array_to_sentence_string | split: '/').last %}
+  <li{% if candidate.number == page.number %} class="active"{% endif %}  data-orbit-slide="{{ label }}"><a href="{{ candidate.url }}"><img src="/assets/images/candidates/images/{{ candidate.image }}" alt="{{candidate.fullname}}" /></a></li>{% endif %}{% endfor %} 
+</ul>
+</div>
+
+<h3>Náš tým v zastupitelstvu</h3>
+<ul id="candidatelist">{% for candidate in candidates offset:1 %}{% assign label = ((candidate.url | split: '.html').first | array_to_sentence_string | split: '/').last %}
+  <li onclick="document.location.href='{{ candidate.url }}';" id="list-{{ label }}"{% if candidate.number == page.number %} class="active-candidate"{% endif %}>
+  <a href="{{ candidate.url }}">
+  <img class="thumb" src="/assets/images/candidates/thumbnails/{{ candidate.image }}" alt="">
+  <strong>{{ candidate.name }}</strong><span>{{ candidate.sub }}</span></a></li>{% endfor %}
+</ul>

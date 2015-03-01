@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html class="no-js" lang="cs">
+
+{% include head.html %}
+
+<body{% if page.wide %} class="full"{% endif %}>
+  <div class="bgwhite">
+    <div class="row">
+    {% include top.html %}
+    </div>
+  </div>
+
+  <div class="large-12 columns middle-bar bgwhite">
+    <div class="row">
+      <div class="large-3 columns"><img src="/assets/images/logotyp.png" style="margin-top:5px;"/></div>
+      <div class="large-9 columns"><h1 style="color:white !important;">{{ site.h1 }}</h1></div>
+    </div>
+  </div>
+
+  {% if page.category contains 'zastupitel' %}
+  <div class="row">
+      <div class="large-5 columns candidatecolumn">
+      {% include candidatelist.html %}
+      </div>
+
+      <div class="large-7 columns bgwhite">
+        <h1>{{ page.title }}{% if page.sub %}<small>{{ page.sub }}</small>{% endif %}</h1>
+        {% if page.perex %}<div class="anotation">{{ page.annotation }}</div>{% endif %}
+        {% if page.perex %}<div class="perex">{{ page.perex }} </div>{% endif %}
+        {{ content }}
+        {% include contacts.html %}
+      </div>
+  </div>
+  {% else %}
+  <div class="row bgwhite">
+    <h1>{{ page.title }} {% if page.sub %}<small>{{ page.sub }}</small>{% endif %}</h1>
+        {% if page.image %}<img src="{{ page.image }}"{% if page.category contains 'blog' %} class="blog"{% endif %}/>{% endif %}
+{% if page.autor %} <span class="radius label">{{ page.autor}}</span> {% endif %}
+{% if page.date %}  <span class="radius secondary label">{{ page.date | date: "%d.%m.%Y" }}</span> {% endif %}
+    {{ content }}
+  </div>
+  {% endif %}
+
+
+  {% include foot.html %}
+
+  {% include js.html %}
+</body>
+</html>

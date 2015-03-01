@@ -1,0 +1,15 @@
+<nav class="top-bar" data-topbar role="navigation" class="large-12 columns">
+  <ul class="title-area">
+    <li class="name"></li>
+    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>
+
+  <section class="top-bar-section">
+    <ul class="left">
+      {% for item in site.data.menu %}
+      <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+</nav>

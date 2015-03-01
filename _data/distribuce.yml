@@ -1,0 +1,211 @@
+- "název":   Pirátské centrum
+  "adresa":  Řehořova 19
+  "městská část": Praha 3
+  "kontakt":
+    -
+     "jméno": Jakub Michálek
+     "telefon": 775 978 550
+    -
+     "jméno": Tobias Esner
+     "telefon": 732 579 221
+  "materiály":
+     "noviny":    334 balíků
+     "letáky":    zatím nejsou
+     "plakáty":   zatím nejsou
+     "náramky":   8 balíků
+     "trička":    zatím nejsou
+     "samolepky": zatím nejsou
+     "placky":    zatím nejsou
+  "otvírací doba": "po-pá, 14.00–18.00"
+
+- "název":  čajovna Šamanka
+  "adresa":  Hálkova 8
+  "městská část": Praha 2
+  "kontakt": []
+  "materiály":
+    "noviny":    1 balík
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "po-pá, 11.00–23.00, so-ne, 15.00-23.00"
+
+- "název":  Café v podpalubí
+  "adresa":  Ohradní 22
+  "městská část": Praha 4 – Michle
+  "kontakt": []
+  "materiály":
+    "noviny":    6 balíků
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "po-pá, 07.45–20.00, ne, 12.00-19.00"
+
+- "název":  Sousedský klub Letná
+  "adresa":  Jirečkova 13
+  "městská část": Praha 7
+  "kontakt": []
+  "materiály":
+    "noviny":    3 balíky
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "po-pá, 14.00–23.00"
+
+- "název":  Václav Fořtík
+  "adresa":  Zavadilova 1297/3
+  "městská část": Praha 6 -Dejvice
+  "kontakt":
+    -
+     "jméno": Václav Fořtík
+     "telefon": 603 234 368
+  "materiály":
+    "noviny":    2 balíky
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "dohodou"
+
+- "název":  Ivan Mikoláš
+  "adresa":  
+  "městská část": Praha 10
+  "kontakt":
+    -
+     "jméno": Ivan Mikoláš
+     "telefon": 603 454 341
+  "materiály":
+    "noviny":    5 balíků
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "tel. dohodou"
+
+- "název":  Viktor Mahrik
+  "adresa":  
+  "městská část": Praha 6
+  "kontakt": 
+    -
+     "jméno": Viktor Mahrik
+     "telefon": 602 767 298
+  "materiály":   
+    "noviny":    cca 15 balíků
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "tel. dohodou"
+
+- "název":  Jan Zelený
+  "adresa":  Smržovská 1
+  "městská část": Praha Klánovice
+  "kontakt": 
+    -
+     "jméno": Jan Zelený
+     "telefon": 602 604 676 
+  "materiály":   
+    "noviny":    2 balíky
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "tel. dohodou"
+
+- "název":  Olga Richterová
+  "adresa":  
+  "městská část": Praha 10
+  "kontakt": 
+    -
+     "jméno": Olga Richterová
+     "telefon": 774 153 361
+  "materiály":   
+    "noviny":    2 balíky
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "tel. dohodou"
+
+- "název":  Restaurace U Kallaschů
+  "adresa":  Pod Přehradou 18
+  "městská část": Praha 10
+  "kontakt": 
+    -
+     "jméno": Ondřej Kallasch
+     "telefon": 720 474 822
+  "materiály":   
+    "noviny":    zatím nejsou
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "tel. dohodou"
+
+- "název":  Ondra Vodička
+  "adresa":  Bryksova 767
+  "městská část": Praha Černý most
+  "kontakt":
+    -
+     "jméno": Ondra Vodička
+     "telefon": 732 987 354
+  "materiály":
+    "noviny":    10 balíků
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "dohodou"
+
+- "název":  Radotín
+  "adresa":  Prvomájová 159/26
+  "městská část": Praha Radotín
+  "kontakt": []
+  "materiály":
+    "noviny":    zatím nejsou
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "0-24h"
+
+- "název":  Prostor Letňany
+  "adresa":  Křivoklátská 302
+  "městská část": Praha 18
+  "kontakt":
+    -
+     "jméno": Prostor Letňany
+     "telefon": 776 239 654
+  "materiály":
+    "noviny":    6 balíků
+    "letáky":    zatím nejsou
+    "plakáty":   zatím nejsou
+    "náramky":   zatím nejsou
+    "trička":    zatím nejsou
+    "samolepky": zatím nejsou
+    "placky":    zatím nejsou
+  "otvírací doba": "po-pá, 12.00–21.00"

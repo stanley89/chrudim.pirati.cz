@@ -1,0 +1,76 @@
+-
+  "jméno": Bára Hrůzová
+  "mail": barbora.hruzova@pirati.cz
+  "telefon": 608 052 429
+  "foto" : ./lide/bara-hruzova.jpg
+  "funkce": vedoucí personálního odboru
+  "úkoly": 
+    - vede seznam dobrovolníků a jejich kontaktních údajů
+-
+  "jméno": Ondra Vodička
+  "mail": ondrej.vodicka@pirati.cz
+  "telefon": 732 987 354
+  "foto" : ./lide/ondrej-vodicka.jpg
+  "funkce": správce materiálů
+  "úkoly": 
+    - spravuje distribuční kanály, aktualizuje dostupnost materiálů
+    - spravuje pokladnu pro prodej triček a zálohy na vlajky
+-
+  "jméno": Ivan Hrůza
+  "mail": ivan.hruza@pirati.cz
+  "telefon": 777 112 547
+  "foto" : ./lide/ivan-hruza.jpg
+  "funkce": volební koordinátor
+  "úkoly": 
+    - připravuje a provádí plán kampaně
+    - zjišťuje nabídky volebních materiálů
+    - sleduje všechny projekty kampaně a dohlíží na jejich zdárný průběh
+    - zapojuje dobrovolníky do kampaně
+-
+  "jméno": Mikuláš Ferjenčík
+  "mail": mikulas.ferjencik@pirati.cz
+  "foto" : ./lide/mikulas-ferjencik.jpg
+  "telefon": 737 943 770
+  "funkce": kandidát č. 4
+  "úkoly": 
+    - vede sociální sítě
+    - koordinuje mediální výstupy
+    - spravuje pokladnu pro prodej triček a zálohy na vlajky
+    - organizuje týmy pro rozdávání novin
+-
+  "jméno": Ondřej Profant
+  "mail": ondrej.profant@pirati.cz
+  "telefon": 607 580 015
+  "foto" : ./lide/ondrej-profant.jpg
+  "funkce": kandidát č. 2 a předseda krajského sdružení
+  "úkoly": 
+    - odpovídá za rozpočet a financování kampaně
+    - předkládá výdaje ke schválení krajskému předsednictvu a krajskému fóru
+    - spravuje redmine
+-
+  "jméno": Adam Zábranský
+  "mail": adam.zabransky@pirati.cz
+  "telefon": 721 006 868
+  "foto" : ./lide/adam-zabransky.jpg
+  "funkce": kandidát č. 3 a analytik materiálů zastupitelstva
+  "úkoly": 
+    - zpracovává podklady ze zastupitelstva a jiných orgánů města
+    - připravuje podklady pro předvolební diskuse
+    - vyhledává kauzy, na které by bylo záhodno upozornit
+- 
+  "jméno": Jakub Michálek
+  "mail": jakub.michalek@pirati.cz
+  "telefon": 775 978 550
+  "foto" : ./lide/jakub-michalek.jpg
+  "funkce": lídr kandidátní listiny
+  "úkoly":
+    - odpovídá za prezentaci programu a mediální prezentaci
+    - vede politická jednání ohledně zastupitelstva
+-
+  "jméno": Jana Svobodová
+  "mail": jana.svobodova@pirati.cz
+  "foto" : ./lide/jana-svobodova.jpg
+  "telefon": 732 751 802
+  "funkce": správkyně webu
+  "úkoly": 
+    - spravuje web kampaně a sdružení
