@@ -4,14 +4,14 @@ category: lide
 title: Nikola Štěpánková
 tags: Nikola Štěpánková
 autor: Nikola Štěpánková
-email: nstepankova@piati.cz
+email: nikola.stepankova@piati.cz
 image: assets/images/lide/nikola_stepankova.jpg
 permalink: 
 ---
 
-######Je řadovou členkou Pirátské strany.
+#####Je členkou Pirátské strany.
 
-* 12. března 1986 
+_* 12. března 1986_
 
 Nikola pochází z města Hradec Králové a od roku 2008 žije v Chrudimi.
 

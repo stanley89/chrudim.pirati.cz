@@ -1,0 +1,24 @@
+<div class="small-12 large-8 columns {{ page.style }}">
+
+<h4><strong>Důležitá oznámení </strong></h4>
+{% for post in site.categories['bleskovky'] %}
+<!--<h5><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></h5>--> 
+  <h6>
+    {% if post.image %} <img src="{{ post.image }}" width="100" height="40"/> {% else %} {{ <img src="/assets/images/aktuality/default.png" width="100" height="40"/> }} {% endif %}
+    {% if post.autor %} <autor class="radius label">{{ post.autor }}</autor> {% endif %}
+
+    <i class="radius secondary label">{{ post.date | date: "%d.%m.%Y" }}</i>
+  </h6>
+  {% if post.splash %}<img src="{{ post.splash }}" alt="splash image" class="splash" />{% endif %}
+  {{ post.excerpt }}
+  <a href="{{ post.url }}" class="righ">Celá zpráva →</a>
+{% endfor %}
+</div>
+
+<div class="small-12 large-4 columns {{ page.style }}">
+<h5><strong>Pirátské schůze</strong></h5>
+{% for post in site.categories['schuze']  limit:2%}
+<h6><i class="radius secondary label">{{ post.date | date: "%d.%m.%Y" }}</i> <a href="{{ post.url }}">{{ post.title }}</a></h6>
+{% endfor %}
+</section>
+</div>

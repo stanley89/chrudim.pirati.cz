@@ -5,11 +5,12 @@ title: Blog
 category: program
 ---
 
-{% assign blogs = (site.posts | where: "category", "blog" | sort: 'date') %}
+{% assign blogs = (site.posts) %}
 
 {% assign modulo = 0 %}
+{% for blog in site.categories.blog reverse %}
 
-{% for blog in blogs reversed %}
+
 
 {% if modulo == 0 or forloop.first %}
   <div class="row blog">

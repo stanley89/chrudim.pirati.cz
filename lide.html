@@ -16,25 +16,27 @@ title: Lidé
 {% endif %}
 
 <div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
-<img src="{{ post.image }}"/>
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-{% if post.autor %} <span class="radius label">{{ post.autor}}</span> {% endif %}
+<img src="{{ post.image }}" width="100" height="123" align="left"/>
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<!--{% if post.autor %} <span class="radius label">{{ post.autor}}</span> {% endif %}-->
 {% if post.date %}  <span class="radius secondary label">{{ post.date | date: "%d.%m.%Y" }}</span> {% endif %}
 {% if post.excerpt %}{{ post.excerpt | truncatewords: 30 }}
 {% else %}
-{{ post.content | strip_html | truncatewords: 30 }}
+<!--{{ post.content | strip_html | truncatewords: 30 }}-->
 {% endif %}
-<a href="{{ post.url }}">více</a>.
+<a href="{{ post.url }}" >O Pirátovi</a>.
 </div>
-
 {% if modulo == 1 or forloop.last %}
   </div>
 {% endif %}
 
 {% if modulo == 0 %}
+  </br>
+  </br>
+  </br>
   {% assign modulo = 1 %}
 {% else %}
   {% assign modulo = 0 %}
+  </br>
 {% endif %}
-
 {% endfor %}

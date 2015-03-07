@@ -4,14 +4,14 @@ category: lide
 title: Pavel Štěpánek
 tags: Pavel Štěpánek
 autor: Pavel Štěpánek
-email: pstepanek@pirati.cz
+email: pavel.stepanek@pirati.cz
 image: assets/images/lide/pavel_stepanek.jpg
 permalink: 
 ---
 
-######1. místopředseda PKS Pardubický kraj
+#####__1. místopředseda PKS Pardubický kraj__
 
-* 24. září 1985
+_* 24. září 1985_
 
 Je řadový člen Pirátské strany. Pavel pochází z města Chrudim, kde žije i v současné době.
 Vystudoval obor veřejné správy.

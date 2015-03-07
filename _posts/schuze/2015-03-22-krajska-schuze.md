@@ -1,6 +1,6 @@
 ---
 layout: eu
-category: aktuality
+categories: [aktuality,schuze]
 title: Krajská Pirátská schůze
 tags: schůze, piráti
 autor: Piráti Pardubický kraj
