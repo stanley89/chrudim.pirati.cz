@@ -9,8 +9,7 @@ image: assets/images/lide/jiri_stuna.jpg
 permalink: 
 ---
 
-předseda PKS Pardubický kraj
----------------------------
+######předseda PKS Pardubický kraj
 
 * květen 1976 v Pardubicích
 

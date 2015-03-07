@@ -9,7 +9,8 @@ image: assets/images/lide/pavel_stepanek.jpg
 permalink: 
 ---
 
-1. místopředseda PKS Pardubický kraj
+######1. místopředseda PKS Pardubický kraj
+
 * 24. září 1985
 
 Je řadový člen Pirátské strany. Pavel pochází z města Chrudim, kde žije i v současné době.

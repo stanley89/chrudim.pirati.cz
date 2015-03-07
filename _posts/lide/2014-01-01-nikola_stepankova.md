@@ -9,8 +9,8 @@ image: assets/images/lide/nikola_stepankova.jpg
 permalink: 
 ---
 
-Je řadovou členkou Pirátské strany.
------------------------------------
+######Je řadovou členkou Pirátské strany.
+
 * 12. března 1986 
 
 Nikola pochází z města Hradec Králové a od roku 2008 žije v Chrudimi.
