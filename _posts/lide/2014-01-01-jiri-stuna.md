@@ -4,9 +4,13 @@ category: lide
 title: Jiří Stuna
 tags: Jiří Stuna
 autor: Jiří Stuna
+email: jstuna@pirati.cz
 image: assets/images/lide/jiri_stuna.jpg
 permalink: 
 ---
+
+předseda PKS Pardubický kraj
+---------------------------
 
 * květen 1976 v Pardubicích
 

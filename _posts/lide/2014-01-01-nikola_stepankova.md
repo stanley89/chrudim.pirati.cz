@@ -4,12 +4,16 @@ category: lide
 title: Nikola Štěpánková
 tags: Nikola Štěpánková
 autor: Nikola Štěpánková
+email: nstepankova@piati.cz
 image: assets/images/lide/nikola_stepankova.jpg
 permalink: 
 ---
+
+Je řadovou členkou Pirátské strany.
+-----------------------------------
 * 12. března 1986 
 
-Je řadovou členkou Pirátské strany. Nikola pochází z města Hradec Králové a od roku 2008 žije v Chrudimi.
+Nikola pochází z města Hradec Králové a od roku 2008 žije v Chrudimi.
 
 Vystudovala gymnázium a nedostudovala Fakultu humanitních studií Karlovy univerzity, z důvodu odjezdu do ciziny, konkrétně na Island, kde se stala součástí projektu vlády - zalesnění země a dále pracovala v zimním středisku.
 

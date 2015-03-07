@@ -4,9 +4,13 @@ category: lide
 title: Zdeněk Brejša
 tags: Zdeněk Brejša
 autor: Zdeněk Brejša
+email: zbrejsa@pirati.cz
 image: assets/images/lide/zdenek_brejsa.jpg
 permalink: 
 ---
+
+2. místopředseda PKS Pardubický kraj
+------------------------------------
 * 12. března 1986 
 
 Je řadovou členkou Pirátské strany. Nikola pochází z města Hradec Králové a od roku 2008 žije v Chrudimi.
