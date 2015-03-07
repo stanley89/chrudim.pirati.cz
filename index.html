@@ -6,6 +6,20 @@ title: Aktuálně z Chrudimi
 
 ---
 
+{% for post in site.categories[category_name]  limit:1 %}
+<article>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <h6>
+    {% if post.autor %}<autor class="radius label">{{ post.autor }}</autor> | {% endif %}
+    <i class="fa fa-clock-o"></i> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%d.%m.%Y"}}</time>
+  </h6>
+  {% if post.splash %}<img src="{{ post.splash }}" alt="splash image" class="splash" />{% endif %}
+  {{ post.excerpt }}
+  <a href="{{ post.url }}" class="right">Celý článek →</a>
+  <span class="category"><i class="fa fa-tags"></i> {{ post.tags | category_links }}</span>
+</article>
+{% endfor %}
+
 {% assign posts = (site.posts | where: "category", "aktuality" | sort: 'date') %}
 
 {% assign modulo = 0 %}
@@ -17,7 +31,7 @@ title: Aktuálně z Chrudimi
 {% endif %}
 
 <div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
-{% if post.picture %} <img src="{{ post.image }}" width="400" height="229"/> {% else %} {{<img src="/assets/images/iactuality/default.png" width="400" height="229"/> }}
+{% if post.image %} <img src="{{ post.image }}" width="400" height="229"/> {% else %} {{<img src="/assets/images/iactuality/default.png" width="400" height="229"/> }} {% endif %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {% if post.autor %} <span class="radius label">{{ post.autor}}</span> {% endif %}
 {% if post.date %}  <span class="radius secondary label">{{ post.date | date: "%d.%m.%Y" }}</span> {% endif %}
