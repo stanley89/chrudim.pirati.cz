@@ -21,9 +21,9 @@ title: Aktuálně z Chrudimi
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {% if post.autor %} <span class="radius label">{{ post.autor}}</span> {% endif %}
 {% if post.date %}  <span class="radius secondary label">{{ post.date | date: "%d.%m.%Y" }}</span> {% endif %}
-{% if post.excerpt %}{{ post.excerpt | truncatewords: 30 }}
+{% if post.excerpt %}{{ post.excerpt | truncatewords: 15 }}
 {% else %}
-{{ post.content | strip_html | truncatewords: 30 }}
+{{ post.content | strip_html | truncatewords: 15 }}
 {% endif %}<a href="{{ post.url }}">více</a>.
 </div>
 
