@@ -1,7 +1,7 @@
 ---
 layout: eu
 category: aktuality
-title: Pirátská schůze
+title: Piráti hledají dobrovolníky
 tags: nábor, piráti
 autor: Piráti v Chrudimi
 image: assets/images/aktuality/chrudim.jpg
