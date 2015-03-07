@@ -8,3 +8,4 @@ image: assets/images/aktuality/cps.jpg
 ---
 
 Zajíma Vás co se děje ve Vašem městě? Ztotožňujete se s pirátskými myšlenkami? Neváhejte a kontaktujte nás. Rádi uvidíme nové tváře a přivítáme zapálené příznivce či aktivní členy. 
+
