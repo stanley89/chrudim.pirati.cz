@@ -17,7 +17,7 @@ title: Aktuálně z Chrudimi
 {% endif %}
 
 <div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
-<img src="{{ post.image }}"/>
+<img src="{{ post.image }}" width="700" height="400"/>
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {% if post.autor %} <span class="radius label">{{ post.autor}}</span> {% endif %}
 {% if post.date %}  <span class="radius secondary label">{{ post.date | date: "%d.%m.%Y" }}</span> {% endif %}
