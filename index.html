@@ -6,6 +6,15 @@ title: Aktuálně z Chrudimi
 
 ---
 
+{% assign posts = (site.posts | where: "category", "bleskovky" | sort: 'date') %}
+
+{% assign modulo = 0 %}
+
+{% for post in posts reversed %}
+
+{% if modulo == 0 or forloop.first %}
+
+
 {% assign posts = (site.posts | where: "category", "aktuality" | sort: 'date') %}
 
 {% assign modulo = 0 %}
