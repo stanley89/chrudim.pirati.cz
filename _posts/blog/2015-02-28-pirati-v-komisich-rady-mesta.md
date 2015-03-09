@@ -7,7 +7,9 @@ autor: Zdeněk Kubala
 image: /assets/images/blog/muchrudim.jpg
 ---
 
-####Několik chrudimských Pirátů se dostalo do komisí rady města. Některé komise už zasedali a došlo i na doporučení rozdělení dotací(např. komise mládeže a sportu či komise ulturní).
+####Několik chrudimských Pirátů se dostalo do komisí rady města. Některé komise už zasedali a došlo i na doporučení rozdělení dotací(např. komise mládeže a sportu či komise kulturní).
+
+
 Takto Budeme alespoň moci našim voličům předávat hodnověrnější informace o dění ve městě.
 
 * Jiří Stuna - komise pro prevenci kriminality
