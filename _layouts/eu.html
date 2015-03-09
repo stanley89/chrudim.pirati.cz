@@ -34,7 +34,7 @@
   {% else %}
   <div class="row bgwhite">
     <h1>{{ page.title }} {% if page.sub %}<small>{{ page.sub }}</small>{% endif %}</h1>
-{% if page.image %} <img src="{{ page.image }}"{% if page.category contains 'lide' %} class="left"{% else %} {% if page.category contains 'blog' %} class="center" {% endif %}{% endif %}/>{% endif %}
+{% if page.image %} <img src="{{ page.image }}"{% if page.category contains 'lide' %} class="left"{% else %} {% if page.category contains 'blog' %} align="right" {% endif %}{% endif %}/>{% endif %}
 {% if page.autor %} <span class="radius label">{{ page.autor}}</span> {% endif %}
 {% if page.date %}  <span class="radius secondary label">{{ page.date | date: "%d.%m.%Y" }}</span> {% endif %}
     {{ content }}
