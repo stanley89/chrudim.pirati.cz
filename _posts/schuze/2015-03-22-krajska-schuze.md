@@ -6,7 +6,7 @@ tags: schůze, piráti
 autor: Piráti Pardubický kraj
 image: assets/images/aktuality/pardubice.jpg
 ---
-Piráti Pardubický kraj srdečně zvou na veřejnou krajskou schůzi.  
+Piráti srdečně zvou na veřejnou krajskou schůzi.  
 Ta proběhne dne __22.3.2015__ v _17 hodin_ na _Kateřině(1.patro salónek)_ v __Chrudimi__ s prioritním bodem krajské volby 2016.
 
 Okruhy jednání:
