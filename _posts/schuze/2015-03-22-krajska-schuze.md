@@ -18,4 +18,6 @@ Okruhy jednání:
  * Projednat návrh o spolupráci se "Změnou"
  * Dovolba předsednictva
 
+Více informací [zde](https://forum.pirati.cz/post384372.html#p384372).
+
 
