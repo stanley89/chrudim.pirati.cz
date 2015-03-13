@@ -15,9 +15,9 @@ Okruhy jednání:
 * Vymezení funkcí/úkolu/pravomocí PKS Pardubice + případné  nominonace či zvolení
 * Personalní otázky
 * Členské podněty
- * Oslovit nezávislé kandidáty
- * Projednat návrh o spolupráci se "Změnou"
- * Dovolba předsednictva
+  * Oslovit nezávislé kandidáty
+  * Projednat návrh o spolupráci se "Změnou"
+  * Dovolba předsednictva
 
 Více informací [zde](https://forum.pirati.cz/post384372.html#p384372).
 
