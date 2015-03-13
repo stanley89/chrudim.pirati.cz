@@ -10,6 +10,7 @@ Piráti srdečně zvou na veřejnou krajskou schůzi.
 Ta proběhne dne __22.3.2015__ v _17 hodin_ na _Kateřině(1.patro salónek)_ v __Chrudimi__ s prioritním bodem krajské volby 2016.
 
 Okruhy jednání:
+---------------
 * Prioritní bod - Krajské volby
 * Vymezení funkcí/úkolu/pravomocí PKS Pardubice + případné  nominonace či zvolení
 * Personalní otázky
