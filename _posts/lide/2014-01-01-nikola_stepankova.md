@@ -4,7 +4,7 @@ category: lide
 title: Nikola Štěpánková
 tags: Nikola Štěpánková
 autor: Nikola Štěpánková
-email: nikola.stepankova@piati.cz
+email: nikola.stepankova@pirati.cz
 image: assets/images/lide/nikola_stepankova.jpg
 permalink: 
 ---
