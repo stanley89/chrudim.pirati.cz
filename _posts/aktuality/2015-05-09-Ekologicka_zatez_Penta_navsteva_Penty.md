@@ -31,9 +31,10 @@ Z návštěvy Ekomonitoru:
 * není si vědoma ani toho, že by firma Ekomonitor nezvládla své vrty čistit a vodu sama pije
 * tzv. krácený rozbor vody s cenou 1621Kč vč. DPH
 
-Dále se chystáme nahlédnout do hydrogeologické mapy, která by měla odhalit propustnost a směr toku spodní vody. Zvažujeme i možnost kontroly ovzduší či provedení náhodného úplného rozboru vody v této lokalitě.
+Dále se chystáme nahlédnout do hydrogeologické mapy, která by měla odhalit propustnost a směr toku spodní vody.
+Zvažujeme i možnost kontroly ovzduší či provedení náhodného úplného rozboru vody v této lokalitě. Jsme však přesvědčeni, že firma Penta učinila přiměřené kroky k tomu, aby se událost z loňského roku již neopakovala.
 
-Piráti politicky i nepoliticky **podporují** dostavbu vodovodní přípojky do místní části Píšťovi a vyzívají město Chrudim by tento projekt podpořilo také.
+Piráti politicky i nepoliticky **podporují** dostavbu vodovodní přípojky do místní části Píšťovi a vyzívají město Chrudim by tento projekt podpořilo také. 
 
 Celý článek o návštěvě včetně fotografií lze přečíst [zde] [8].
   
