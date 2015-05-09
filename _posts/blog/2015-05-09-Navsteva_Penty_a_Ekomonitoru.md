@@ -7,8 +7,6 @@ autor: Jiří Stuna
 image: /assets/images/blog/penta.jpg
 ---
 
-####Piráti v Pentě
-
   Na Krajské sdružení České pirátské strany Pardubického kraje se v březnu letošního roku obrátili někteří občané místní části Píšťovy ohledne obav z provozu firmy Penta - Ing. Petr Švec a loňské havárie v tomto provozu. Jednání s občany se účastnil předseda krajského sdružení Pirátu PhDr. Jiří Stuna a člen strany Zdeněk Kubala.  Z tohoto jednání Piráti učinili zápis. Piráti se obrátili s dotazy, ve smyslu zákona o svobodném přístupu k informacím, na Městský úřad Chrudim, Krizový štáb Pardubického kraje a Hasičský záchranný sbor Pardubického kraje. Se žádostí o zodpovězení našich dotazů jsme se obrátili i na majitele firmy Penta pana inženýra Petra Švece. Obratem nás kontaktoval ředitel výrobní divize Penta - Píšťovy inženýr Petr Kára, neboť  majitel firmy se v tu dobu nacházel v zahraničí.
 
   K návštěvě v Pentě jsem byl ze začátku poněkud skeptický, snažil jsem se o co největší objektivitu, ale neubránil se pocitu vlastní zainteresovanosti, neboť mám v blízkosti tohoto závodu vlastní nemovitost. Jsme si vědomi, že ani já ani Ondřej Češík nejsme odborníky na danou problematiku, chemici ani hydrogeologové. Moje kompetence končí odmaturováním z předmětu krizové řízení a s praktickými  zkušenostmi se zabezpečením firmy Synthesia, a.s. a Explosia, s.p. 
