@@ -15,7 +15,7 @@ image: /assets/images/blog/penta.jpg
 
   Návštěvy se účastnil předseda Dr. Jiří Stuna a člen Pirátů Ondřej Češík.  Velmi mile nás překvapila vstřícnost, ochota a otevřenost, se kterou jsme se v Pentě setkali.
   
-  Pan inženýr Kára pracuje ve funkci ředitele výrobní divize Píšťovy od roku 2006. Pan ředitel Pirátům **zodpověděl všechny jejich otázky* *a provedl je výrobním závodem. Dal nám k nahlédnutí i aktuální zprávy, resp. závěry kontrol kontrolních orgánů, zejména České inspekce životního prostředí. 
+  Pan inženýr Kára pracuje ve funkci ředitele výrobní divize Píšťovy od roku 2006. Pan ředitel Pirátům **zodpověděl všechny jejich otázky** a provedl je výrobním závodem. Dal nám k nahlédnutí i aktuální zprávy, resp. závěry kontrol kontrolních orgánů, zejména České inspekce životního prostředí. 
 
 Dovolte mi, abych Vás nyní seznámil s našimi postřehy získanými návštěvou Penty.
 
@@ -25,7 +25,7 @@ Dovolte mi, abych Vás nyní seznámil s našimi postřehy získanými návšt�
 
   **Dostáváme se k zodpovězení první obavy občanů.**  V Pentě se skutečně radioaktivní materiál nachází. Piráti ho rovněž mohli vidět, jedná se o jakou si plechovou skříň velikosti větší šatní skříně. V množství  řádu desítek gramů ročně. Tento radioaktivní materiál souvisel s výrobou glazury.  Přes tak malé množství uložených radioaktivních látek, na činnost s tímto materiálem dohlíží Úřad pro jadernou bezpečnost, který zde provedl kontrolu v lednu 2014, ani tato kontrola neshledala na straně Penty žádná pochybení.  
 
-Picture  
+![alt text]({{ site.url }}/assets/images/blog/navsteva_penta/penta_1.jpg  "Obr.1")
 Obr.1
  
   Penta provádí nejméně 2x ročně písemné, interní kontroly uskladnění nebezpečných látek.
@@ -35,19 +35,19 @@ Obr.1
 
 
 Havárie 2014
-Picture  
+![alt text]({{ site.url }}/assets/images/blog/navsteva_penta/penta_2.jpg  "Obr.2")
 Obr.2
 
   **Havárii zapříčinil šroub** (obr.2), který pravděpodobně dodavatel barelu zaměnil za ocelový, místo nerezového. Ocelový šroub držící přírubu výpustního kohoutu při styku s kyselinou zoxidoval a prasknul. Obsah barelu – 500L, 50% kyseliny dusičné začal z barelu unikat. Kyselina při kontaktu s litinovým roštěm  záchytné jímky začala chemicky reagovat a vytvářet barevný oblak. Ve všech skladech firmy Penta se nachází nepropustná podlaha, která je vyspárovaná do jímky, která pojme maximální množství uskladněných látek, k prosaku do půdy by tak nemělo dojít. Penta z loňské havárie učinila opatření. Zcela vyřadila z používání typy kontejneru, na kterých závada vznikla. Nyní již nepoužívá kontejnery se spodní výpustí. Litinové rošty jímky byly nahrazeny nerezovými, viz. obr.3.
 
-Picture 
+![alt text]({{ site.url }}/assets/images/blog/navsteva_penta/penta_3.jpg  "Obr.3")
 Obr.3
 
   Přesto, že kontrolní orgány neshledaly žádná zásadní pochybení, dostala firma Penta za loňskou havárii pokutu od Krajského úřadu za pozdní nahlášení havárie Kr Ú. (K havárii došlo v sobotu, firma Penta Kr Ú havárii oficiálně nahlásila následující pondělí).
 
   I přes tuto havarii firma Penta získala ocenění za přístup k ekologii- logo „Odpovědné podnikání v chemii“.
 
-  Další obavou občanů byla informace, že sousední firma Ekomonitor žádá o vodovodní přípojku z důvodu, že nestíhá čistit své vrty. Přesto, že Piráti nebyli ve firmě Ekomonitor objednáni, ujala se jich téhož dne, tj. 5.5.2015 koordinátorka úseku Mgr. Petra Moučková. 
+  **Další obavou občanů byla informace**, že sousední firma Ekomonitor žádá o vodovodní přípojku z důvodu, že nestíhá čistit své vrty. Přesto, že Piráti nebyli ve firmě Ekomonitor objednáni, ujala se jich téhož dne, tj. 5.5.2015 koordinátorka úseku Mgr. Petra Moučková. 
 
   Magistra Moučková o žádosti k získání vodovodní přípojky firmy Ekomonitor nic nevěděla. Ekomonitor vlastní tři vrty a žádnou příčinnou souvislost  s kvalitou vody a provozem firmy Penta neshledala. Není si vědoma ani toho, že by firma Ekomonitor nezvládla své vrty čistit a vodu sama pije. Nerozumí tomu, proč si majitelé studní v místní části Píšťovy neprovedou rozbor vody. Pro informaci, zda-li se jedná o pitnou vodu stačí tzv. krácený rozbor vody s cenou 1621Kč vč. DPH, úplný rozbor vody potom přijde na 9000Kč. Přítomnost radioaktivních látek ve vodě však tento rozbor neobsahuje, nicméně není problém ho provést. V případě podezření z neobjektivity si může majitel studně tento rozbor zadat u konkurence, dodává Mgr. Moučková. 
 
