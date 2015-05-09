@@ -23,8 +23,8 @@ Dovolte mi, abych Vás nyní seznámil s našimi postřehy získanými návšt�
 
   **Dostáváme se k zodpovězení první obavy občanů.**  V Pentě se skutečně radioaktivní materiál nachází. Piráti ho rovněž mohli vidět, jedná se o jakou si plechovou skříň velikosti větší šatní skříně. V množství  řádu desítek gramů ročně. Tento radioaktivní materiál souvisel s výrobou glazury.  Přes tak malé množství uložených radioaktivních látek, na činnost s tímto materiálem dohlíží Úřad pro jadernou bezpečnost, který zde provedl kontrolu v lednu 2014, ani tato kontrola neshledala na straně Penty žádná pochybení.  
 
-![Obr.1]({{ site.url }}/assets/images/blog/navsteva_penta/penta_1.jpg)
- 
+![Obr.1](/assets/images/blog/navsteva_penta/penta_1.jpg)   
+Obr.1 
   Penta provádí nejméně 2x ročně písemné, interní kontroly uskladnění nebezpečných látek.
 
   **Do kanalizace Penta vypouští pouze splaškovou vodu z WC**, přes biologickou čističku. Odpadní chemikálie jsou vylévány do připravených odpadních barelů, které se nacházejí v každé laboratoři. Penta využívá z 90% bezodpadové technologie. Vodu Penta získává z vlastního vrtu max. 200m3/měs., zbytek z vodovodního řádu.  Ve vlastním  vrtu provádí pravidelné měření kvality vody. Z Chrudimky Penta vodu neodebírá, ani do ni nevypouští, k výrobě používá uzavřené okruhy vody.
@@ -32,11 +32,13 @@ Dovolte mi, abych Vás nyní seznámil s našimi postřehy získanými návšt�
 
 
 Havárie 2014  
-![Obr.2]({{ site.url }}/assets/images/blog/navsteva_penta/penta_2.jpg")
+![Obr.2](/assets/images/blog/navsteva_penta/penta_2.jpg)   
+Obr.2(Havárie 2014)
 
   **Havárii zapříčinil šroub** (obr.2), který pravděpodobně dodavatel barelu zaměnil za ocelový, místo nerezového. Ocelový šroub držící přírubu výpustního kohoutu při styku s kyselinou zoxidoval a prasknul. Obsah barelu – 500L, 50% kyseliny dusičné začal z barelu unikat. Kyselina při kontaktu s litinovým roštěm  záchytné jímky začala chemicky reagovat a vytvářet barevný oblak. Ve všech skladech firmy Penta se nachází nepropustná podlaha, která je vyspárovaná do jímky, která pojme maximální množství uskladněných látek, k prosaku do půdy by tak nemělo dojít. Penta z loňské havárie učinila opatření. Zcela vyřadila z používání typy kontejneru, na kterých závada vznikla. Nyní již nepoužívá kontejnery se spodní výpustí. Litinové rošty jímky byly nahrazeny nerezovými, viz. obr.3.
 
-![Obr.3]({{ site.url }}/assets/images/blog/navsteva_penta/penta_3.jpg)
+![Obr.3](/assets/images/blog/navsteva_penta/penta_3.jpg)   
+Obr.3
 
   Přesto, že kontrolní orgány neshledaly žádná zásadní pochybení, dostala firma Penta za loňskou havárii pokutu od Krajského úřadu za pozdní nahlášení havárie Kr Ú. (K havárii došlo v sobotu, firma Penta Kr Ú havárii oficiálně nahlásila následující pondělí).
 
