@@ -25,6 +25,7 @@ Dovolte mi, abych Vás nyní seznámil s našimi postřehy získanými návšt�
 
 ![Obr.1](/assets/images/blog/navsteva_penta/penta_1.jpg)   
 Obr.1 
+
   Penta provádí nejméně 2x ročně písemné, interní kontroly uskladnění nebezpečných látek.
 
   **Do kanalizace Penta vypouští pouze splaškovou vodu z WC**, přes biologickou čističku. Odpadní chemikálie jsou vylévány do připravených odpadních barelů, které se nacházejí v každé laboratoři. Penta využívá z 90% bezodpadové technologie. Vodu Penta získává z vlastního vrtu max. 200m3/měs., zbytek z vodovodního řádu.  Ve vlastním  vrtu provádí pravidelné měření kvality vody. Z Chrudimky Penta vodu neodebírá, ani do ni nevypouští, k výrobě používá uzavřené okruhy vody.
