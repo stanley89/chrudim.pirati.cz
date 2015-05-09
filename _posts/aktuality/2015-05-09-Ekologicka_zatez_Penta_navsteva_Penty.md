@@ -52,11 +52,11 @@ Do diskuze se můžete zapojit:
 * [Facebooková stránka Chrudimských pirátů][7]
 
 
-[1]: http://chrudim.pirati.cz/Ekologicka_zatez_Penta.html
+[1]: /Ekologicka_zatez_Penta.html
 [2]: https://www.pirati.cz/regiony/pardubicko/start#kauza_penta
 [3]: https://www.pirati.cz/regiony/pardubicko/start
 [4]: https://forum.pirati.cz/krajske-forum-pardubicky-kraj-f414/kauza-penta-chrudim-t28831.html
 [5]: mailto:pardubickykraj@pirati.cz
 [6]: https://www.facebook.com/pages/Pir%C3%A1ti-Pardubick%C3%BD-kraj/161396423900274?ref=ts&fref=ts
 [7]: https://www.facebook.com/CeskaPiratskaStranaChrudim?fref=ts
-[8]: http://chrudim.pirati.cz/Navsteva_Penty_a_Ekomonitoru.html
+[8]: /Navsteva_Penty_a_Ekomonitoru.html
