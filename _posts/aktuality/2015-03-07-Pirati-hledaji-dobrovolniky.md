@@ -8,7 +8,7 @@ image: assets/images/aktuality/cps.jpg
 ---
 
 Zajímá Vás, co se děje ve Vašem městě? Ztotožňujete se s pirátskými myšlenkami? Rádi by jste se zapojili do veřejného života?  
-Neváhejte a kontaktujte nás. Rádi uvidíme nové tváře a přivítáme zapálené příznivce či aktivní členy.
+Neváhejte a kontaktujte nás. Rádi uvidíme nové tváře a přivítáme příznivce či aktivní členy.
 
 Informační kanály:
 ------------------
