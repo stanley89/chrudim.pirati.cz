@@ -8,7 +8,7 @@ image: assets/images/aktuality/chrudim.jpg
 ---
 
 Nedávno jsme se dostali k zajímavým informacím související se společností **Penta** zabývající se výrobou chemikálií,
-která sídlí v nedalekých Píšťovech. I nám v utkvěla v paměti poslední havárie v této firmě včetně zmatků a neinformovanosti
+která sídlí v nedalekých Píšťovech. I nám utkvěla v paměti poslední havárie v této firmě včetně zmatků a neinformovanosti
 veřejnosti. Proto jsme se rozhodli obrátit na povolané instituce s otázkami, které mohou alespoň osvětlit situaci kolem
 tohoto podniku, půdy v blízkém okolí a konečně i obyvatel.
 
