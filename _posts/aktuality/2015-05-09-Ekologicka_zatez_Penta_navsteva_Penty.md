@@ -7,7 +7,7 @@ autor: Piráti Chrudim
 image: assets/images/aktuality/chrudim.jpg
 ---
 
-  V návaznosti na článek týkající se [Ekologické zátěže Penta][1], abychom rádi občany seznámili s následnými událostmi. Piráti obdrželi odpovědi na [položené otázky][2] v relativně krátké době. Dále byli Piráti obratem pozváni na exkurzi podniku Penta a neplánovaně navštívili i podnik Ekomonitor.
+  V návaznosti na článek týkající se [Ekologické zátěže Penta][1] bychom rádi občany seznámili s následnými událostmi. Piráti obdrželi odpovědi na [položené otázky][2] v relativně krátké době. Dále byli Piráti obratem pozváni na exkurzi podniku Penta a neplánovaně navštívili i podnik Ekomonitor.
 
 Z odpovědí:
 -----------
@@ -23,8 +23,8 @@ Z návštěvy Penty:
 * chemikálie jsou většinou čištěny do laboratorní a farmaceutické kvality a chemikálie jsou baleny do menších balení, vhodných k farmaceutické a laboratorní distribuci(do 250 tun chemických látek ročně)
 * v Pentě se může nacházet 15tun toxických látek, 60 tun hořlavých látek a 60 tun látek s negativním vlivem na životní prostředí. 
 * kontroly provedeny Českou inspekcí životního prostředí, KrÚ Pardubického kraje, HZS a Hygienou - bez závad
-* v Pentě se skutečně nachází radioaktivní materiál(V množství  řádu desítek gramů ročně)
-* z Chrudimky Penta vodu neodebírá, k výrobě použávají uzavřené obvody
+* v Pentě se skutečně nachází radioaktivní materiál(v řádu desítek gramů ročně)
+* z Chrudimky Penta vodu neodebírá, k výrobě používají uzavřené obvody
 * havárie v r. 2014 byla zapříčiněna kohoutem ze špatného materiálu - vadné kontejnery byly nahrazeny
 * Penta dostala za pozdní nahlášení havárie pokutu.
 
@@ -35,9 +35,9 @@ Z návštěvy Ekomonitoru:
 * tzv. krácený rozbor vody s cenou 1621Kč vč. DPH
 
 Dále se chystáme nahlédnout do hydrogeologické mapy, která by měla odhalit propustnost a směr toku spodní vody.
-Zvažujeme i možnost kontroly ovzduší či provedení náhodného úplného rozboru vody v této lokalitě. Jsme však přesvědčeni, že firma Penta učinila přiměřené kroky k tomu, aby se událost z loňského roku již neopakovala.
+Zvažujeme i možnost kontroly ovzduší či provedení náhodného úplného rozboru vody v této lokalitě. Jsme však přesvědčeni, že firma Penta učinila přiměřené kroky k tomu, aby se událost z loňského roku již neopakovala.
 
-Piráti politicky i nepoliticky **podporují** dostavbu vodovodní přípojky do místní části Píšťovi a vyzívají město Chrudim by tento projekt podpořilo také. 
+Piráti politicky i nepoliticky **podporují** dostavbu vodovodní přípojky do místní části Píšťovi a vyzývají město Chrudim aby tento projekt podpořilo také. 
 
 Celý článek o návštěvě včetně fotografií lze přečíst [zde][8].
   
