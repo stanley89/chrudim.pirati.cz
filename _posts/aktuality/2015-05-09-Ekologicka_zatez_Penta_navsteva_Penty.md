@@ -25,7 +25,7 @@ Z návštěvy Penty:
 * kontroly provedeny Českou inspekcí životního prostředí, KrÚ Pardubického kraje, HZS a Hygienou - bez závad
 * v Pentě se skutečně nachází radioaktivní materiál(v řádu desítek gramů ročně)
 * z Chrudimky Penta vodu neodebírá, k výrobě používají uzavřené obvody
-* havárie v r. 2014 byla zapříčiněna kohoutem ze špatného materiálu - vadné kontejnery byly nahrazeny
+* havárie v r. 2014 byla zapříčiněna šroubem příruby kohoutu ze špatného materiálu - vadné kontejnery byly nahrazeny
 * Penta dostala za pozdní nahlášení havárie pokutu
 
 Z návštěvy Ekomonitoru:
