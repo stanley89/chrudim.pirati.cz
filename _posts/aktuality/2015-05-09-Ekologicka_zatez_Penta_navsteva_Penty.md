@@ -12,7 +12,7 @@ image: assets/images/aktuality/chrudim.jpg
 Z odpovědí:
 -----------
 * dotčené orgány mají relevantní informace o uskladněných chemikáliích a jejich stupni nebezpečnosti
-* jsou k dispozici krizové plány, které se pravidelně revidují
+* jsou k dispozici havarijní plány, které se pravidelně revidují
 * orgány provádějí pravidelné kontroly
 
 Z návštěvy Penty:
@@ -25,8 +25,8 @@ Z návštěvy Penty:
 * kontroly provedeny Českou inspekcí životního prostředí, KrÚ Pardubického kraje, HZS a Hygienou - bez závad
 * v Pentě se skutečně nachází radioaktivní materiál(v řádu desítek gramů ročně)
 * z Chrudimky Penta vodu neodebírá, k výrobě používají uzavřené obvody
-* havárie v r. 2014 byla zapříčiněna kohoutem ze špatného materiálu - vadné kontejnery byly nahrazeny
-* Penta dostala za pozdní nahlášení havárie pokutu.
+* havárie v r. 2014 byla zapříčiněna šroubem příruby kohoutu ze špatného materiálu - vadné kontejnery byly nahrazeny
+* Penta dostala za pozdní nahlášení havárie pokutu
 
 Z návštěvy Ekomonitoru:
 -----------------------
@@ -39,7 +39,7 @@ Zvažujeme i možnost kontroly ovzduší či provedení náhodného úplného ro
 
 Piráti politicky i nepoliticky **podporují** dostavbu vodovodní přípojky do místní části Píšťovi a vyzývají město Chrudim aby tento projekt podpořilo také. 
 
-Celý článek o návštěvě včetně fotografií lze přečíst [zde][8].
+Celý článek o návštěvě včetně **fotografií** lze přečíst [zde][8].
   
 *Dopisy jsou k dispozici na stránkách [KS Pardubický kraj] [3].*  
 *O dalším postupu budeme nadále veřejnost informovat.*
