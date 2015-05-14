@@ -24,6 +24,5 @@ Okruhy jednání:
   * lídr na volby do poslanecké sněmovny- otázky
   * zalozeni a hostovani regionalniho portalu zivnostniku ci drobnych podnikatelu
   * zřízení kanceláře KS Pardubického kraje   
+
 Více informací [zde](https://forum.pirati.cz/pardubicky-kraj-f85/17-5-2015-kvetnova-schuze-ks-pardubicky-kraj-ve-vm-t28896.html)
-
-
