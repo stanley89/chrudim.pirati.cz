@@ -12,7 +12,7 @@ Ta proběhne dne __24.5.2015__ v _17 hodin_ v _Čajovně Čajka_ ve __Vysokém M
 Okruhy jednání:
 ---------------
 * Krajské volby
-* Zastupce Personalniho odboru v KS Pardubice
+* Zástupce personalního odboru v KS Pardubice
 * Akce
   * Vyosení
   * akce v Čajce
@@ -22,7 +22,7 @@ Okruhy jednání:
   * propagační předměty pro příznivce
 * Členské podněty
   * lídr na volby do poslanecké sněmovny- otázky
-  * zalozeni a hostovani regionalniho portalu zivnostniku ci drobnych podnikatelu
+  * založení a hostovaní regionálního portálu živnostníků či drobných podnikatelů
   * zřízení kanceláře KS Pardubického kraje   
 
 Více informací [zde](https://forum.pirati.cz/pardubicky-kraj-f85/17-5-2015-kvetnova-schuze-ks-pardubicky-kraj-ve-vm-t28896.html)
