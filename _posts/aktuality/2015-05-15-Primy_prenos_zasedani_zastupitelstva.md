@@ -1,7 +1,7 @@
 ---
 layout: eu
 category: aktuality
-title: Pímý přenost zasedání zastupitelstva
+title: Přímý přenost zasedání zastupitelstva
 tags: streamovani, piráti, zastupitelstvo
 autor: Piráti Chrudim
 image: assets/images/aktuality/cps.jpg
