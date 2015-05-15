@@ -4,7 +4,7 @@ category: aktuality
 title: Přímý přenos zasedání zastupitelstva města Chrudim
 tags: streamovani, piráti, zastupitelstvo
 autor: Piráti Chrudim
-image: assets/images/aktuality/cps.jpg
+image: assets/images/aktuality/chrudim.jpg
 ---
 
 Dne 18.5.2015 od 16:00 se uskuteční 5. zasedání zastupitelstva města Chrudim.
