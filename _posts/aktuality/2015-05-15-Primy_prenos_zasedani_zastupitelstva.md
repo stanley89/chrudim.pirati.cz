@@ -1,7 +1,7 @@
 ---
 layout: eu
 category: aktuality
-title: Přímý přenos zasedání zastupitelstva města Chrudim
+title: Přímý přenos 5. zasedání zastupitelstva města Chrudim
 tags: streamovani, piráti, zastupitelstvo
 autor: Piráti Chrudim
 image: assets/images/aktuality/chrudim.jpg
