@@ -16,7 +16,7 @@ Nově se občané mohou podívat i na podklady pro jednaní zastupitelstva [na s
 Stream ze zasedání bude zprostředkován pomocí kanálu na *youtube.com*. 
 
 #####Odkaz na přímý přenos:
-[server youtube.com][6]
+[server youtube.com] [6]
 
 
 Informační kanály:
@@ -27,6 +27,7 @@ Informační kanály:
 * [Facebooková stránka PK][4]
 * [Facebooková stránka Chrudimských pirátů][5]
 * [youtube kanál České Pirátské strany][8]
+
 [1]: https://www.pirati.cz/regiony/pardubicko/start
 [2]: https://www.pirati.cz
 [3]: https://forum.pirati.cz
