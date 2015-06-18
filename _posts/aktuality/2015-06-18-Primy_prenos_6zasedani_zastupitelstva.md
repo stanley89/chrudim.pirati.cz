@@ -12,7 +12,6 @@ Tak jako poslední zasedání, tak i toto nadcházející Vám prostě přinesem
 online přenosu my. 
 
 Nově se občané mohou podívat i na podklady pro jednaní zastupitelstva [na stránkách města Chrudim] [7].
-
 Stream ze zasedání bude zprostředkován pomocí kanálu na *youtube.com*. 
 
 #####Odkaz na přímý přenos:
@@ -26,7 +25,7 @@ Informační kanály:
 * [Internetové fórum pirátů][3]
 * [Facebooková stránka PK][4]
 * [Facebooková stránka Chrudimských pirátů][5]
-* [youtube kanál České Pirátské strany][8]
+* [Youtube kanál České Pirátské Strany][8]
 
 [1]: https://www.pirati.cz/regiony/pardubicko/start
 [2]: https://www.pirati.cz
