@@ -33,5 +33,5 @@ Informační kanály:
 [4]: https://www.facebook.com/pages/Pir%C3%A1ti-Pardubick%C3%BD-kraj/161396423900274?ref=ts&fref=ts
 [5]: https://www.facebook.com/CeskaPiratskaStranaChrudim?fref=ts
 [6]: https://www.youtube.com/watch?v=8H3TihblBbY
-[7]: http://www.chrudim.eu/cs/download/okt/zm/podklady_2206.pdf
+[7]: http://www.chrudim.eu/mesto/zastupitelstvo-mesta/podklady.html
 [8]: https://www.youtube.com/watch?v=5oGDl7nsi6Q
