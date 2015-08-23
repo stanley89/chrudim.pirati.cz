@@ -8,8 +8,9 @@ image: assets/images/aktuality/chrudim.jpg
 ---
 
 Dne 24.8.2015 od 16:00 se uskuteční 7. zasedání zastupitelstva města Chrudim.
-Tak jako poslední zasedání, tak i toto nadcházející Vám prostě přineseme prostřednictvím
-online přenosu my. 
+Stejně jako poslední zasedání i toto nadcházející Vám přineseme prostřednictvím
+online přenosu.
+
 
 Nově se občané mohou podívat i na podklady pro jednaní zastupitelstva [na stránkách města Chrudim] [7].
 Stream ze zasedání bude zprostředkován pomocí kanálu na *youtube.com*. 
