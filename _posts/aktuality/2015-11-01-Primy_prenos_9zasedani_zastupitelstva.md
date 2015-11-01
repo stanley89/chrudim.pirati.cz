@@ -10,7 +10,7 @@ image: assets/images/aktuality/chrudim.jpg
 Dne 2.11.2015 od 16:00 se uskuteční 9. zasedání zastupitelstva města Chrudim.
 Zasedání bylo svoláno v mimořádném termínu.
 Stejně jako poslední zasedání i toto nadcházející Vám přineseme prostřednictvím
-online přenosu. Tentokrate se pokusíme o zapojení **dvou** kamer tak, aby bylo možné přepínat mezi pohledem na **zastupitele** a **plátno**.
+online přenosu. Tentokráte se pokusíme o zapojení **dvou** kamer tak, aby bylo možné přepínat mezi pohledem na **zastupitele** a **plátno**.
 
 Body jednání:
 -------------
