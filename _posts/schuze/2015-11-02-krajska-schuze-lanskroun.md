@@ -1,7 +1,7 @@
 ---
 layout: eu
 categories: [aktuality,schuze]
-title: 8.11. Krajská Pirátská schůze ve Svitavách - Výjezdní
+title: 8.11. Krajská Pirátská schůze v Lanškrouně - Výjezdní
 tags: schůze, piráti
 autor: Piráti Pardubický kraj
 image: assets/images/aktuality/pardubice.jpg
