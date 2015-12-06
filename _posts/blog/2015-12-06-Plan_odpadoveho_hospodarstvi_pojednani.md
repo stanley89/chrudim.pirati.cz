@@ -32,4 +32,4 @@ Směrná část  POH je ta, kde společnost ISES navrhuje technická a technolog
 
 Na otázky, které jsem měla připravené, padly odpovědi již v průběhu představení POH. Například kde se lidé dozví, jak předcházet vzniku odpadu, kde najdou vše pohromadě? Dle infa představitelů ISES, s.r.o.  ministerstvo přislíbilo vznik **webového serveru sdružujícího informace  právě o předcházení vzniku odpadu**. Kdy? V řádu měsíců, snad. Další otázkou bylo, zda se bude klást důraz na větší separaci odpadů, zda se zřídí více kontejnerů na tříděný odpad. A odpověď z úst pana Málka: "Vše závisí na penězích a pak není tu prostor pro umístění kontejnerů. Obyvatele ruší ať už zápach nebo ruch kolem kontejnerů." Ano, je to i na nás, zda bude více kontejnerů, ale zase a znova hlavní slovo mají dle mě finance, uvolní se z rozpočtu města?
 
-**Schválení POH** by mělo proběhnout do měsíce. Je stanoven na tobu *5ti let*. Uvidíme, zda se bude plnit tak, jak má.
+**Schválení POH** by mělo proběhnout do měsíce. Je stanoven na dobu *5ti let*. Uvidíme, zda se bude plnit tak, jak má.
