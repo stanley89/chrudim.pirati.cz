@@ -1,0 +1,56 @@
+---
+layout: eu
+wide: true
+title: Chrudimské Pirátské centrum
+category: piratske centrum
+---
+
+<p><b>Adresa:</b> Radoušova ulice čp 14, Chrudim </p>
+<p><b>Otevírací doba:</b> Uterý, Čtvrtek a Neděle mezi 17:30 - 19:00</p>
+
+<p></p>
+<img src="assets/images/cpice/mapka_radousova.png" height="400" width="400" align="right">
+<p></p>
+<p><b>Na místě se můžete těšit na:</b></p>
+<p>&bull; Veřejnou ledničku</p>
+<p>&bull; Veřejnou knihovnu - <a href="knihovna.html" />seznam literatury</a></p>
+<p>&bull; Freeshop</p>
+<p>&bull; Otevřený počítač</p>
+<p></p>
+<h3>Zprávičky:</h3>
+<p></p>
+
+{% assign cpice = (site.posts) %}
+
+{% assign modulo = 0 %}
+{% for cpice in site.categories.cpice reverse %}
+
+
+
+{% if modulo == 0 or forloop.first %}
+  <div class="row cpice">
+{% endif %}
+
+<div class="medium-6 columns{% if forloop.last and modulo == '0' %} end{% endif %}">
+<img src="{{ cpice.image }}"/>
+<h2><a href="{{cpice.url }}">{{ cpice.title }}</a></h2>
+{% if cpice.autor %} <span class="radius label">{{ cpice.autor}}</span> {% endif %}
+{% if cpice.date %}  <span class="radius secondary label">{{ cpice.date | date: "%d.%m.%Y" }}</span> {% endif %}
+{% if cpice.excerpt %}{{ cpice.excerpt | truncatewords: 30 }}
+{% else %}
+{{ cpice.content | strip_html | truncatewords: 30 }}
+{% endif %}
+<a href="{{ cpice.url }}">více</a>.
+</div>
+
+{% if modulo == 1 or forloop.last %}
+  </div>
+{% endif %}
+
+{% if modulo == 0 %}
+  {% assign modulo = 1 %}
+{% else %}
+  {% assign modulo = 0 %}
+{% endif %}
+
+{% endfor %}

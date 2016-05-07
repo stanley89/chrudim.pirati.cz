@@ -7,7 +7,7 @@ autor: Piráti Chrudim
 image: assets/images/aktuality/mestskyznak.jpg 
 ---
 
-####Z webu města zmizely zapisy starších jednání komisí.
+###Z webu města zmizely zapisy starších jednání komisí.
 
 Z městského [webu][1] zmizely zapisy z jednání komisí pro roky minulé, které tam ještě nedávno byly uveřejněny. Piráti se obratem dotazáli na základě čeho se tak stalo a kdy budou opět **dostupné**.
 
