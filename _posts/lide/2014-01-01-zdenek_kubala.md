@@ -9,9 +9,10 @@ image: assets/images/lide/zdenek_kubala.jpg
 permalink:
 ---
 
-#####Člen komise pro sport a mládež rady města Chrudimi. 
+__1. místopředseda KS Pardubický kraj__
+Člen komise pro sport a mládež rady města Chrudimi.
 
-#####Je členem Pirátské strany. Řadí se mezi neortodoxní vimaře.  
+Je členem Pirátské strany. Řadí se mezi neortodoxní vimaře.  
 
 _* červen 1986_
 

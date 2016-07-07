@@ -9,7 +9,7 @@ image: assets/images/lide/jiri_jansa.jpg
 permalink: 
 ---
 
-##### Je aktivním příznivcem Pirátské strany. 
+Je aktivním příznivcem Pirátské strany. 
 
 _* 7. prosince 1984_
 

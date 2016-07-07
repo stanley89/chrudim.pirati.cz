@@ -9,9 +9,9 @@ image: assets/images/lide/nikola_stepankova.jpg
 permalink: 
 ---
 
-##### Je členkou komise životního prostředí rady města Chrudimi.
+Je členkou komise životního prostředí rady města Chrudimi.
 
-#####Je členkou Pirátské strany.
+Je členkou Pirátské strany.
 
 _* 12. března 1986_
 
