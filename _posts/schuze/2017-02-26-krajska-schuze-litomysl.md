@@ -20,7 +20,7 @@ Okruhy jednání:
 * Jak úkolovat koordinátora přes Redmine
 * Vyjednání plastových cedulí pro Chrudimské Pirátské Centrum
 
-Následná volná diskuze
+Následná volná diskuze 
 
 Více informací a zápis z jednání [zde][2], případně v sekci [Schůze KS Pardubický kraj][3].
 
