@@ -9,7 +9,6 @@ image: assets/images/lide/zdenek_brejsa.jpg
 permalink: 
 ---
 
-#####__2. místopředseda PKS Pardubický kraj__
 
 _* 12. března 1986_
 

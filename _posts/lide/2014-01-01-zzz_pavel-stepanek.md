@@ -9,7 +9,7 @@ image: assets/images/lide/pavel_stepanek.jpg
 permalink: 
 ---
 
-#####__1. místopředseda PKS Pardubický kraj__
+__Předseda PKS Pardubický kraj__
 
 _* 24. září 1985_
 
