@@ -6,7 +6,8 @@ tags: Pavel Štěpánek
 autor: Pavel Štěpánek
 email: pavel.stepanek@pirati.cz
 image: assets/images/lide/pavel_stepanek.jpg
-permalink: 
+page_position: 1
+permalink:
 ---
 
 __Předseda PKS Pardubický kraj__

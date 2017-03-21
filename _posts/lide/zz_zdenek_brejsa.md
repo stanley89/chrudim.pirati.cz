@@ -6,7 +6,8 @@ tags: Zdeněk Brejša
 autor: Zdeněk Brejša
 email: zdenek.brejsa@pirati.cz
 image: assets/images/lide/zdenek_brejsa.jpg
-permalink: 
+page_position:
+permalink:
 ---
 
 

@@ -6,7 +6,8 @@ tags: Tomáš Polívka
 autor: Tomáš Polívka
 email: tomas.polivka@pirati.cz
 image: assets/images/lide/tomas_polivka.jpg
-permalink: 
+page_position:
+permalink:
 ---
 
 #####je členem Pirátské strany

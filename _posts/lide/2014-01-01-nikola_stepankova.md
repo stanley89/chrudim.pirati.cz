@@ -6,7 +6,8 @@ tags: Nikola Štěpánková
 autor: Nikola Štěpánková
 email: nikola.stepankova@pirati.cz
 image: assets/images/lide/nikola_stepankova.jpg
-permalink: 
+page_position:
+permalink:
 ---
 
 Je členkou komise životního prostředí rady města Chrudimi.

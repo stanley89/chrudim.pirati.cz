@@ -15,7 +15,6 @@ script: jekyll build && htmlproofer ./_site --disable-external --assume-extensio
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - master
   - gh-pages     # test the gh-pages branch
   - /pages-(.*)/ # test every branch which starts with "pages-"
 
