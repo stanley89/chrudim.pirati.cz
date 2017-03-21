@@ -5,7 +5,7 @@ category: program
 title: Lidé
 
 ---
-{% assign posts = (site.posts | where: "category", "lide" | sort: 'date') %}
+{% assign posts = (site.posts | where: "category", "lide" | sort: 'page_position', 'last') %}
 
 {% assign modulo = 0 %}
 

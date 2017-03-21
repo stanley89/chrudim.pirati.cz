@@ -6,7 +6,8 @@ tags: Jiří Stuna
 autor: Jiří Stuna
 email: jstuna@pirati.cz
 image: assets/images/lide/jiri_stuna.jpg
-permalink: 
+page_position:
+permalink:
 ---
 
 #####__předseda PKS Pardubický kraj__

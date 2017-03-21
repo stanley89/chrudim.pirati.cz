@@ -6,7 +6,8 @@ tags: Ondřej Češík
 autor: Ondřej Češík
 email: ondrej.cesik@pirati.cz
 image: assets/images/lide/ondrej_cesik.jpg
-permalink: 
+page_position: 3
+permalink:
 ---
 
 __zástupce RV pro PKS Pardubický kraj a 2. místopředseda KS Pardubický kraj__

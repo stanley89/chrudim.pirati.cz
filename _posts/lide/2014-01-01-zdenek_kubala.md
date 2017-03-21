@@ -6,6 +6,7 @@ tags: Zdeněk Kubala
 autor: Zdeněk Kubala
 email: zdenek.kubala@pirati.cz
 image: assets/images/lide/zdenek_kubala.jpg
+page_position: 2
 permalink:
 ---
 

@@ -6,7 +6,8 @@ tags: Jiří Jansa
 autor: Jiří Jansa
 email: jiri.jansa@centrum.cz
 image: assets/images/lide/no_picture.jpg
-permalink: 
+page_position:
+permalink:
 ---
 
 Je aktivním příznivcem Pirátské strany. 

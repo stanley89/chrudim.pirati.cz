@@ -6,6 +6,7 @@ tags: Daniel Lebduška
 autor: Daniel Lebduška
 email: daniel.lebduska@pirati.cz
 image: assets/images/lide/daniel_lebduska.jpg
+page_position: 4
 permalink:
 ---
 
