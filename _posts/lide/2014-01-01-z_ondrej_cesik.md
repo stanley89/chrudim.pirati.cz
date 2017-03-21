@@ -9,7 +9,7 @@ image: assets/images/lide/ondrej_cesik.jpg
 permalink: 
 ---
 
-__zástupce RV pro PKS Pardubický kraj__
+__zástupce RV pro PKS Pardubický kraj a 2. místopředseda KS Pardubický kraj__
 
 __* 11. červen 1985__
 
